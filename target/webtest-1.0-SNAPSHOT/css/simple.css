@@ -1,0 +1,42 @@
+#title {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    font-size: 36px;
+}
+#images {
+    height:500px;
+    width: 450px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.imgsmall {
+    height: 100px;
+    margin: 2px;
+}
+#map {
+    height: 400px;
+    width: 450px;
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
+#bigimg {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+#bigimg img {
+    width: 1150px;
+}
+
+#toggles a {
+    color: black;
+}
+#toggles {
+    position:fixed;
+    right: 15px;
+}
